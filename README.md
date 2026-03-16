@@ -27,11 +27,10 @@
       </p>
     </td>
     <td width="45%" style="border: none; vertical-align: middle; text-align: center;">
-      <p align="center">🎵 <b>Currently Jamming</b></p>
-      <a href="https://open.spotify.com/user/h4wpojefvi291vgew4g22ax02">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=h4wpojefvi291vgew4g22ax02&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b27&interact=true&bar_color=00d2ff&bar_color_active=70a5fd" width="100%" />
-      </a>
-    </td>
+  <a href="https://open.spotify.com/user/h4wpojefvi291vgew4g22ax02">
+    <img src="https://spotify-recent-detector.vercel.app/api/recent?user=h4wpojefvi291vgew4g22ax02&count=3&theme=tokyonight" width="100%" />
+  </a>
+</td>
   </tr>
 </table>
 
