@@ -80,22 +80,14 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=150&section=footer&text=KEEP%20LEARNING%20-%20KEEP%20CODING&fontSize=40&animation=fadeIn" width="100%" />
+  <kbd><b>Copyright © 2026 Nguyen Nhat Minh</b></kbd><br>
+  <img src="https://img.shields.io/badge/Made%20with-Passion%20%26%20Caffeine-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=flat-square" />
 </p>
 
-<div align="center">
-
-## 👨‍💻 **NGUYEN NHAT MINH** <img src="https://img.shields.io/badge/COPYRIGHT%20%C2%A9%202026-ALL%20RIGHTS%20RESERVED-00d2ff?style=for-the-badge&logo=github&logoColor=white" />
-
-<br>
-
-### 🚀 Built with **Passion** & **Caffeine** ☕
-*Designed for Software Engineering Excellence*
-
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minhcamon&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <i>"Built by a student, for the future."</i> <br>
+  🚀 <b>Keep Coding, Keep Improving!</b> 🚀
 </p>
 
 
