@@ -26,7 +26,7 @@
         </ul>
       </p>
     </td>
-   <td">
+   <td>
   🎵 Listening to...
 <p align="center">
   <a href="https://github.com/novatorem/novatorem">
