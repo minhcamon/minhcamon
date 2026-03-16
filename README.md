@@ -28,16 +28,9 @@
     </td>
     <td width="45%" style="border: none; vertical-align: middle; text-align: center;">
   <p align="center">🎧 <b>On Repeat</b></p>
-  <iframe 
-    style="border-radius:12 px" 
-    src="https://open.spotify.com/embed/track/7kpNUrBDYDoX6QKGzrBD1R?utm_source=generator&theme=0" 
-    width="100%" 
-    height="152" 
-    frameBorder="0" 
-    allowfullscreen="" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    loading="lazy">
-  </iframe>
+  <a href="https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=h4wpojefvi291vgew4g22ax02&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b27&interact=true" width="100%" />
+  </a>
 </td>
   </tr>
 </table>
