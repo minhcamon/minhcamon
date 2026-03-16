@@ -25,12 +25,14 @@
           <li><b>Genealogy App:</b> Family tree management system.</li>
         </ul>
       </p>
-    </td>
     <td width="45%" style="border: none; vertical-align: middle; text-align: center;">
   <p align="center">🎧 <b>On Repeat</b></p>
+  
   <a href="https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=h4wpojefvi291vgew4g22ax02&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b27&interact=true" width="100%" />
+    <img src="https://novatorem-spotify.vercel.app/api/track?trackId=7kpNUrBDYDoX6QKGzrBD1R&theme=tokyonight" width="100%" alt="Spotify Track" />
   </a>
+
+  <br>
 </td>
   </tr>
 </table>
