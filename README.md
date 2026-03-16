@@ -27,7 +27,7 @@
       </p>
     </td>
    <td width="45%" style="border: none; vertical-align: middle;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhcamon&theme=tokyonight&hide=html,css&layout=compact&border_radius=10&bg_color=1a1b27" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhcamon&theme=tokyonight&layout=donut&hide_border=true&cache_seconds=1800" width="100%" />
 </td>
   </tr>
 </table>
