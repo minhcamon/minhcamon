@@ -1,4 +1,4 @@
-# <p align="center">✨ Welcome to my Code Space! ✨</p>
+# <p align="center">✨ Welcome to Minh Cam On's Code Space! ✨</p>
 
 
 <p align="center">
@@ -74,8 +74,6 @@
 
 <br />
 
-
----
 
 ---
 
