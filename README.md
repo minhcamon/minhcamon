@@ -25,14 +25,10 @@
           <li><b>Genealogy App:</b> Family tree management system.</li>
         </ul>
       </p>
-    <td width="45%" style="border: none; vertical-align: middle; text-align: center;">
-  <p align="center">🎧 <b>On Repeat</b></p>
-  
-  <a href="https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R">
-    <img src="https://novatorem-spotify.vercel.app/api/track?trackId=7kpNUrBDYDoX6QKGzrBD1R&theme=tokyonight" width="100%" alt="Spotify Track" />
-  </a>
-
-  <br>
+</td>
+   <td width="45%" style="border: none; vertical-align: middle; text-align: center;">
+  <p align="center"><b>🏆 Achievement Unlocked</b></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=minhcamon&theme=tokyonight&no-bg=true&column=2&row=2" width="100%" />
 </td>
   </tr>
 </table>
