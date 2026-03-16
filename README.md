@@ -29,7 +29,7 @@
     <td width="45%" style="border: none; vertical-align: middle; text-align: center;">
   <p align="center">🎧 <b>On Repeat</b></p>
   <iframe 
-    style="border-radius:12px" 
+    style="border-radius:12 px" 
     src="https://open.spotify.com/embed/track/7kpNUrBDYDoX6QKGzrBD1R?utm_source=generator&theme=0" 
     width="100%" 
     height="152" 
