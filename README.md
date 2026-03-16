@@ -74,3 +74,22 @@
 
 <br />
 
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <kbd><b>Copyright © 2026 Nguyen Nhat Minh</b></kbd><br>
+  <img src="https://img.shields.io/badge/Made%20with-Passion%20%26%20Caffeine-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=flat-square" />
+</p>
+
+<p align="center">
+  <i>"Built by a student, for the future."</i> <br>
+  🚀 <b>Keep Coding, Keep Improving!</b> 🚀
+</p>
+
+
