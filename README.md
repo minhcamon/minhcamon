@@ -26,8 +26,13 @@
         </ul>
       </p>
     </td>
-   <td width="45%" style="border: none; vertical-align: middle;">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,tailwind,mysql,cpp,arduino,figma,postman&perline=4" width="100%" />
+   <td">
+  🎵 Listening to...
+<p align="center">
+  <a href="https://github.com/novatorem/novatorem">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=h4wpojefvi291vgew4g22ax02&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b27&interact=true&bar_color=00d2ff&bar_color_active=70a5fd" width="100%" />
+  </a>
+</p>
 </td>
   </tr>
 </table>
