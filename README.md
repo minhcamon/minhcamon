@@ -29,12 +29,9 @@
     <td width="45%" style="border: none; vertical-align: middle;">
   <p align="center">🎵 <b>Top Favorites</b></p>
   <p align="center">
-    <a href="LINK_BAI_HAT_1"><img src="https://img.shields.io/badge/-Lo--fi%20Beats-8892b0?style=for-the-badge&logo=spotify&logoColor=white" /></a><br>
+    <a href="[7kpNUrBDYDoX6QKGzrBD1R](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R)"><img src="https://img.shields.io/badge/-Lo--fi%20Beats-8892b0?style=for-the-badge&logo=spotify&logoColor=white" /></a><br>
     <a href="LINK_BAI_HAT_2"><img src="https://img.shields.io/badge/-J--Pop%20Vibes-ff79c6?style=for-the-badge&logo=spotify&logoColor=white" /></a><br>
     <a href="LINK_BAI_HAT_3"><img src="https://img.shields.io/badge/-Indie%20Rock-50fa7b?style=for-the-badge&logo=spotify&logoColor=black" /></a>
-  </p>
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTZjMDliOTUzeGdzZzZ4amZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpx4XOiVvFm0/giphy.gif" width="50px">
   </p>
 </td>
   </tr>
