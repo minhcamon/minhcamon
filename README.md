@@ -74,10 +74,6 @@
 
 <br />
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=minhcamon&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=100&section=footer" width="100%" />
 </p>
