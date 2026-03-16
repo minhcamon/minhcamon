@@ -38,9 +38,6 @@
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
     loading="lazy">
   </iframe>
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTZjMDliOTUzeGdzZzZ4amZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpx4XOiVvFm0/giphy.gif" width="30%">
-  </p>
 </td>
   </tr>
 </table>
