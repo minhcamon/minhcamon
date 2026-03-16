@@ -31,10 +31,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       # Đẩy file đã tạo lên nhánh 'output'
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#00d2ff&color_dots=#1a1b27,#004c6d,#0084a5,#00bed9,#00d2ff
