@@ -1,8 +1,5 @@
 # <p align="center">✨ Welcome to my Code Space! ✨</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Nguyen%20Nhat%20Minh&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUycnVvMmw3eGV2cTllOTAxY3VxemNsaXdia2c4Mjc5bzllbDZtbTZwMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cJ4v3Vts7hcBAC1iDy/200w.gif" width="8%" />
